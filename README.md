@@ -29,7 +29,6 @@
       
 * **그 외:**
   *  *B2C 제품 F/W 개발 및 양산 (B2C product F/W development and mass production)*
- 
 
 <br>
 
