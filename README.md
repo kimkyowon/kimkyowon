@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>안녕하세요! 💡 실시간 통신과 안정성을 추구하는 F/W 개발자가 되기 위해 공부하고 있습니다. 👋</h1>
+    <h1>안녕하세요! 💡 F/W 개발자가 되기 위해 공부하고 있습니다. 👋</h1>
     <h2>Hello! 💡 I am currently studying to become an F/W developer pursuing real-time communication and stability.</h2>
 </div>
 
@@ -14,16 +14,18 @@
 ## 👨🏻‍💻 About Me (배움의 과정과 목표)
 *About Me (Learning Journey and Goals)*
 
-저는 시스템의 **안정성과 효율성**이라는 목표를 향해, 깊이 있는 펌웨어 지식을 배우고 적용하고 있습니다. (1999년생)
-*I am focusing on learning and applying in-depth firmware knowledge to achieve system stability and efficiency. (Born in 1999)*
+저는 시스템의 **안정성과 효율성**을 목표로 펌웨어 개발자가 되기 위한 지식을 배우고 적용하고 있습니다.
+*I am focusing on learning and applying knowledge to become a firmware developer, aiming for system **stability and efficiency**.*
 
 * **2018.03:** 한양대학교 ERICA ICT융합학과에 입학하였습니다 (2026.02 졸업 예정).
     * *Enrolled in Hanyang University ERICA, ICT Convergence Dept. (Graduation scheduled for Feb 2026).*
 * **2022.06 ~ 2024.08:** 방산/드론 전문 기업에서 F/W 엔지니어로 약 **2년 2개월**간 근무하며 실무 경험을 익혔습니다 (병역특례).
     * *Worked as an F/W Engineer at a defense/drone specialist company for approx. 2 years and 2 months (Military Service Exemption).*
+    * **주요 업무:** 방산/드론 F/W 개발
+        * *Key Task: Defense/Drone F/W development.*
     * **주요 학습:** 실시간 시스템 제어, 통신 프로토콜 구현, 시스템 안정화 설계 등 펌웨어 개발의 기초와 실무 과정을 경험했습니다.
         * *Key Learning: Experienced the fundamentals and practical processes of firmware development, including real-time system control, communication protocol implementation, and system stabilization design.*
-* **현재:** 마지막 학기에 재학 중이며, 현장 경험을 바탕으로 F/W 개발자로 첫 발을 내딛기 위해 노력하고 있습니다.
+* **현재:** 마지막 학기에 재학 중이며, 실무 경험과 학습을 바탕으로 F/W 개발자로 첫 발을 내딛기 위해 노력하고 있습니다.
     * *Currently in the final semester, striving to make my start as an F/W Developer based on my field experience.*
 
 <br>
