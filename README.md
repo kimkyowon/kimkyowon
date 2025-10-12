@@ -48,7 +48,7 @@
 
 -   **수상 및 자격:**
     * *Awards and Certifications:*
-    -   **ICT융합학부 캡스톤경진대회 장려상 수상 **.
+    -   **ICT융합학부 캡스톤경진대회 장려상 수상**.
         * *Awarded Encouragement Prize at the ICT Convergence Capstone Competition.*
     -   **Knowledge Dorm 2기 성과발표회 장려상**.
         * *Awarded Encouragement Prize at the Knowledge Dorm Phase 2 Performance Presentation.*
