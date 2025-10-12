@@ -27,8 +27,9 @@
 * **2024.08 ~ 현재:** 마지막 학기에 재학 중이며, 실무 경험과 학습을 바탕으로 F/W 개발자로 첫 발을 내딛기 위해 노력하고 있습니다. (2026.02 졸업 예정)
     * *Currently in the final semester, striving to make my start as an F/W Developer based on my field experience. (Graduation scheduled for Feb 2026)*
       
-* **그 외:** B2C 제품 F/W 개발 및 양산 
-    * *Other: B2C product F/W development and mass production .*
+* **그 외:**
+  *  *B2C 제품 F/W 개발 및 양산 (B2C product F/W development and mass production)*
+ 
 
 <br>
 
