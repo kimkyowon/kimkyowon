@@ -12,7 +12,6 @@
 <br>
 
 ## 👨🏻‍💻 About Me 
-*About Me *
 
 저는 시스템의 **안정성과 효율성**을 목표로 펌웨어 개발자가 되기 위한 지식을 배우고 적용하고 있습니다.
 *I am focusing on learning and applying knowledge to become a firmware developer, aiming for system **stability and efficiency**.*
