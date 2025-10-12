@@ -16,18 +16,19 @@
 저는 시스템의 **안정성과 효율성**을 목표로 펌웨어 개발자가 되기 위한 지식을 배우고 적용하고 있습니다.
 *I am focusing on learning and applying knowledge to become a firmware developer, aiming for system **stability and efficiency**.*
 
-* **2018.03:** 한양대학교 ERICA ICT융합학과에 입학하였습니다 (2026.02 졸업 예정).
-    * *Enrolled in Hanyang University ERICA, ICT Convergence Dept. (Graduation scheduled for Feb 2026).*
+* **2018.03:** 한양대학교 ERICA ICT융합학과에 입학하였습니다.
+    * *Enrolled in Hanyang University ERICA, ICT Convergence Dept.*
 * **2022.06 ~ 2024.08:** 방산/드론 전문 기업에서 F/W 엔지니어로 약 **2년 2개월**간 근무하며 실무 경험을 익혔습니다 (병역특례).
     * *Worked as an F/W Engineer at a defense/drone specialist company for approx. 2 years and 2 months (Military Service Exemption).*
     * **주요 업무:** 군용 드론 F/W 개발
         * *Key Task: Military Drone F/W development.*
     * **주요 학습:** 실시간 시스템 제어, 통신 프로토콜 구현, 시스템 안정화 설계 등 펌웨어 개발의 기초와 실무 과정을 경험했습니다.
         * *Key Learning: Experienced the fundamentals and practical processes of firmware development, including real-time system control, communication protocol implementation, and system stabilization design.*
-* **2024.12 ~ 2025.02:** **B2C 제품 F/W 개발 및 양산**
-    * *B2C product F/W development and mass production.*
-* **현재:** 마지막 학기에 재학 중이며, 실무 경험과 학습을 바탕으로 F/W 개발자로 첫 발을 내딛기 위해 노력하고 있습니다.
-    * *Currently in the final semester, striving to make my start as an F/W Developer based on my field experience.*
+* **2024.08 ~ 현재:** 마지막 학기에 재학 중이며, 실무 경험과 학습을 바탕으로 F/W 개발자로 첫 발을 내딛기 위해 노력하고 있습니다. (2026.02 졸업 예정)
+    * *Currently in the final semester, striving to make my start as an F/W Developer based on my field experience. (Graduation scheduled for Feb 2026)*
+      
+* **그 외:** B2C 제품 F/W 개발 및 양산 
+    * *Other: B2C product F/W development and mass production .*
 
 <br>
 
