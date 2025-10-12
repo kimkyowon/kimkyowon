@@ -20,8 +20,8 @@
     * *Enrolled in Hanyang University ERICA, ICT Convergence Dept. (Graduation scheduled for Feb 2026).*
 * **2022.06 ~ 2024.08:** 방산/드론 전문 기업에서 F/W 엔지니어로 약 **2년 2개월**간 근무하며 실무 경험을 익혔습니다 (병역특례).
     * *Worked as an F/W Engineer at a defense/drone specialist company for approx. 2 years and 2 months (Military Service Exemption).*
-    * **주요 업무:** 방산/드론 F/W 개발
-        * *Key Task: Defense/Drone F/W development.*
+    * **주요 업무:** 군용 드론 F/W 개발
+        * *Key Task: Military Drone F/W development.*
     * **주요 학습:** 실시간 시스템 제어, 통신 프로토콜 구현, 시스템 안정화 설계 등 펌웨어 개발의 기초와 실무 과정을 경험했습니다.
         * *Key Learning: Experienced the fundamentals and practical processes of firmware development, including real-time system control, communication protocol implementation, and system stabilization design.*
 * **현재:** 마지막 학기에 재학 중이며, 실무 경험과 학습을 바탕으로 F/W 개발자로 첫 발을 내딛기 위해 노력하고 있습니다.
