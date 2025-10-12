@@ -48,8 +48,8 @@
 
 -   **수상 및 자격:**
     * *Awards and Certifications:*
-    -   **ICT융합학부 캡스톤경진대회 장려상 수상 (12팀 중 4위)**.
-        * *Awarded Encouragement Prize at the ICT Convergence Capstone Competition (4th place out of 12 teams).*
+    -   **ICT융합학부 캡스톤경진대회 장려상 수상 **.
+        * *Awarded Encouragement Prize at the ICT Convergence Capstone Competition.*
     -   **Knowledge Dorm 2기 성과발표회 장려상**.
         * *Awarded Encouragement Prize at the Knowledge Dorm Phase 2 Performance Presentation.*
     -   **컴퓨터활용능력 2급**.
