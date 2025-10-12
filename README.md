@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>안녕하세요! 💡 F/W 개발자가 되기 위해 공부하고 있습니다. 👋</h1>
-    <h2>Hello! 💡 I am currently studying to become an F/W developer pursuing real-time communication and stability.</h2>
+    <h1>안녕하세요👋 F/W 개발자가 되기 위해 공부하고 있습니다. </h1>
+    <h2>Hello! I am currently studying to become an F/W developer pursuing real-time communication and stability.</h2>
 </div>
 
 ---
@@ -60,8 +60,7 @@
 
 <br>
 
-## 📬 Contact (함께 성장할 기회를 기다립니다)
-*Contact (Looking forward to opportunities for mutual growth)*
+## 📬 Contact 
 
 -   **개인 메일:** [dnjs6945@naver.com](mailto:dnjs6945@naver.com).
     * *Personal Email*
