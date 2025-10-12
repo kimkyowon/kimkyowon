@@ -61,9 +61,6 @@
 
 ## 📬 Contact 
 
--   **개인 메일:** [dnjs6945@naver.com](mailto:dnjs6945@naver.com).
-    * *Personal Email*
--   **학교 메일:** [charm0418@hanyang.ac.kr](mailto:charm0418@hanyang.ac.kr)
-    * *University Email*
--   **기술 블로그 (Tistory):** [why-not-working.tistory.com](https://why-not-working.tistory.com/)
-    * *Tech Blog (Tistory)*
+-   **개인 메일(Personal Email)   :** [dnjs6945@naver.com](mailto:dnjs6945@naver.com).
+-   **학교 메일(University Email) :** [charm0418@hanyang.ac.kr](mailto:charm0418@hanyang.ac.kr)
+-   **기술 블로그 (Tistory)       :** [why-not-working.tistory.com](https://why-not-working.tistory.com/)
