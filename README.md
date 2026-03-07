@@ -1,22 +1,12 @@
-<div align="center">
-
-# 김교원 · Kyowon Kim
-
-**부족함을 정의하고 채워온 임베디드 개발자**
-</div>
-
----
-
 <table>
 <tr>
 <td width="35%" align="center">
 
 ![profile](https://github.com/kimkyowon.png)
 
-STM32 · FreeRTOS · ARM Cortex-M · Linux
+# 김교원 · Kyowon Kim
 
-[![Blog](https://img.shields.io/badge/Tistory-why--not--working-000000?style=flat-square&logo=tistory&logoColor=white)](https://why-not-working.tistory.com)
-[![Email](https://img.shields.io/badge/Email-dnjs6945@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dnjs6945@naver.com)
+**부족함을 정의하고 채워온 임베디드 개발자**
 
 </td>
 <td width="65%" valign="top">
@@ -26,13 +16,19 @@ STM32 · FreeRTOS · ARM Cortex-M · Linux
 방산·드론 전문 기업에서 병역특례로 2년 3개월간 펌웨어 엔지니어로 근무했습니다.
 군용 드론 조종기 펌웨어 개발부터 B2C 제품 양산(4,000대+)까지 경험했으며,
 저수준 제어와 시스템 안정성에 관심이 많고, 설계 결정의 이유를 중요하게 생각합니다.
-
-현장에서 마주치는 기술적 과제에 주도적으로 대응하며 팀의 개발 품질에 기여하는 엔지니어가 되겠습니다.
 <br><br>
+현장에서 마주치는 기술적 과제에 주도적으로 대응하며 팀의 개발 품질에 기여하는 엔지니어가 되겠습니다.
 
+<br><br>
 - 🎓 한양대학교 ERICA · ICT융합학과 (2026.02 졸업) · 전공 GPA 3.8 / 4.5
 - 🏢 ㈜보라스카이 F/W Engineer (2022.06 ~ 2024.08, 병역특례)
 - 📝 [기술 블로그](https://why-not-working.tistory.com) — FreeRTOS, ARM Cortex-M, 프로젝트 개발기
+<br><br>
+
+`STM32` `FreeRTOS` `ARM Cortex-M` `Linux` `C` `C++` `Python`
+
+[![Blog](https://img.shields.io/badge/Tistory-why--not--working-000000?style=flat-square&logo=tistory&logoColor=white)](https://why-not-working.tistory.com)
+[![Email](https://img.shields.io/badge/Email-dnjs6945@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dnjs6945@naver.com)
 
 </td>
 </tr>
