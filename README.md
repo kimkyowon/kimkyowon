@@ -49,7 +49,7 @@
 > STM32 · Moore FSM · 히터 제어 · 양산 4,000대+
 
 - 히터 과열 방지 FSM 설계 — 오작동 상태전이 원천 차단
-- 요구사항 정의 → 펌웨어 개발 → 양산 가이드라인 작성까지 전 과정 독립 수행
+- 요구사항 정의 → 펌웨어 개발 → 양산까지 전 과정 수행 경험
 
 ### 🎯 [드론 정밀 착륙 시스템](https://github.com/kimkyowon/Capstone_Design) _(캡스톤 장려상)_
 > YOLOv8n · Hailo-8L · Kalman Filter · STM32 · RPi5
