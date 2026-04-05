@@ -45,7 +45,7 @@
 - 온도 비례 PWM 팬 제어 · Ringbuffer 기반 실시간 프로토콜 파싱 구현
 - 방위사업청 무기적합성 평가 통과
 
-### 🎩 [스마트 모자 관리 디바이스](https://github.com/kimkyowon/Hat_managing_system)
+### 🎩 [모자관리기 개발](https://github.com/kimkyowon/Hat_managing_system)
 > STM32 · Moore FSM · 히터 제어 · 양산 4,000대+
 
 - 히터 과열 방지 FSM 설계 — 오작동 상태전이 원천 차단
