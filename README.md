@@ -52,11 +52,10 @@
 - 요구사항 정의 → 펌웨어 개발 → 양산까지 전 과정 수행 경험
 
 ### 🎯 [드론 정밀 착륙 시스템](https://github.com/kimkyowon/Capstone_Design) _(캡스톤 장려상)_
-> YOLOv8n · Hailo-8L · Kalman Filter · STM32 · RPi5
+> YOLOv8n  · STM32 · RPi5
 
-- YOLOv8n + Hailo NPU 조합으로 27 FPS 실시간 객체 검출
+- YOLOv8n + RasberryPi Ai Hat 조합으로 27 FPS 실시간 객체 검출
 - I2C + GPIO 이중 채널 통신으로 단일 경로 장애 대비
-- Kalman Filter 기반 위치 예측으로 착륙 정확도 개선
 
 ### 📰 [IT 뉴스 자동 팩트체킹 모니터](https://github.com/kimkyowon/factcheck-monitor)
 > Python · Claude API · Tavily · GitHub Actions · Google Sheets
