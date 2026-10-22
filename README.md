@@ -74,15 +74,15 @@
 | **MCU / Board** | STM32 · Raspberry Pi · ESP32 · Arduino |
 | **RTOS / OS** | FreeRTOS · Linux |
 | **Protocol** | UART · SPI · I2C · SMBus · CAN |
-| **Tools** | Git · TRACE32 · Keil · STM32CubeIDE |
+| **Tools** | Git · TRACE32 · STM32CubeIDE |
 | **AI / Automation** | Claude API · Tavily · GitHub Actions |
 
 ---
 
 ## Education & Activities
 
-**한양대학교 ERICA · ICT융합학과** (2018.03 ~ 2026.02)
-전공 GPA 3.8 / 4.5
+**한양대학교 ERICA · ICT융합학과** (2018.03 ~ 2026.08)
+전공 GPA 3.81 / 4.5
 
 | 기간 | 활동 |
 |------|------|
